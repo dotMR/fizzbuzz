@@ -17,8 +17,6 @@ Implement the FizzBuzz Game with a language of your choice.
     $ cd /fizzbuzz
     $ node fizzbuzz.js
     How high would you like to count?
-
-    $ 100
     30
 
     1
