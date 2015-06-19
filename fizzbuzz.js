@@ -16,7 +16,7 @@ function countTo(num) {
         return;
     }
 
-    for (var n=1;n<end;n++) {
+    for (var n=1;n<=end;n++) {
         var divByThree = (n % 3 == 0);
         var divByFive = (n % 5 == 0);
 
